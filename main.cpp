@@ -316,7 +316,7 @@ int main()
     AdminFile<<"9|reem|78*pdwbf|6570";
     AdminFile.close();
 
-    /*
+    
     Admin a;
     a.setName("taghreed");
     a.setPassword("ju8@77edj");
@@ -343,7 +343,7 @@ int main()
     c.display();
     c.deposit(300);
     c.withdraw(1600);
-    c.checkBalance();*/
+    c.checkBalance();
 
      //FileManager fc;
     //fc.addClient(c);
